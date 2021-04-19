@@ -1,0 +1,11 @@
+.home__body{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    margin-top: 10%;
+}
+.home__body >img{
+    object-fit: contain;
+    height: 150px;
+
+}

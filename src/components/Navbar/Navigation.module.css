@@ -1,0 +1,31 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.left__header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.left__header> a{
+    margin-right: 20px;
+    color: rgb(87, 80, 80) ;
+    font-size: 1rem;
+}
+
+.right__header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.right__header>a{
+    margin-right: 20px;
+    color: rgb(87, 80, 80) ;
+    font-size: 1rem;
+}
+
